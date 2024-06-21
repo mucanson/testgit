@@ -1,4 +1,4 @@
-###Homepage:
+### Homepage:
 - Total User:
 	- New users: tổng số lượng User đã đăng ký, % tăng/giảm so với ngày/tuần/tháng trước
 	- Online: tổng số lượng User đang hoạt động, % tăng/giảm so với ngày/tuần/tháng trước
@@ -12,7 +12,7 @@
 	- Total rating (Điểm số rating thời điểm hiện tại) 
 	- Total review (Tổng số review tại thời điểm hiện tại) 
 	- Total downloaded (Tổng số download tại thời điểm hiện tại)
-###User Management: 
+### User Management: 
 - Bảng quản lý user bao gồm các thông tin:
 	- Tên khách hàng 
 	- ố điện thoại đăng ký 
@@ -23,7 +23,7 @@
 		- Thông tin chi tiết: Số lượng Box, Công tắc (Athena/Hera), cảm biến, rèm, phụ kiện,..., version firmware, trạng thái thiết bị (Online, Offline) 
 - Có thể filter user theo trạng thái user (Online/Offline), OS đang dùng (Android, iOS), Ngày hoạt động gần nhất
 - Có các button hoặc mục chọn cho các tùy chọn: thêm, xóa user, chỉnh sửa thông tin user, lock hoặc unlock user
-###Device Management:
+### Device Management:
 - Bảng quản lý device bao gồm các thông tin:
 	- Tên thiết bị
 	- Số lượng
